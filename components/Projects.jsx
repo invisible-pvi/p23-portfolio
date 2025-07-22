@@ -49,7 +49,7 @@ const Projects = () => {
               </ul>
               </p>
               <a
-              href="https://www.youtube.com/watch?v=thJYoccLd7s"
+              href="https://youtu.be/RLkKrc7mNWA"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-blue-500 hover:bg-blue-700 text-white px-4 py-2 rounded-lg mt-4 inline-block"
@@ -76,7 +76,7 @@ const Projects = () => {
               </ul>
               </p>
               <a
-              href="https://youtu.be/CVtOs19l7b4"
+              href="https://youtu.be/8o8iJZVl2z0"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-blue-500 hover:bg-blue-700 text-white px-4 py-2 rounded-lg mt-4 inline-block"
@@ -97,7 +97,7 @@ const Projects = () => {
               </ul>
               
             <a
-              href="https://youtu.be/5_dBHCOQTIo"
+              href="https://youtu.be/qwCD9H-P9Sk"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-blue-500 hover:bg-blue-700 text-white px-4 py-2 rounded-lg mt-4 inline-block"
@@ -123,7 +123,7 @@ const Projects = () => {
 
               </ul>
               <a
-              href="https://youtu.be/ee7yen7HL4Q"
+              href="https://youtu.be/1AXdkYGK6ys"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-blue-500 hover:bg-blue-700 text-white px-4 py-2 rounded-lg mt-4 inline-block"
@@ -162,7 +162,7 @@ const Projects = () => {
               </ul>
               </p>
               <a
-              href="https://www.youtube.com/watch?v=ySUyn-mVnRY"
+              href="https://youtu.be/sGm_bodb3W8"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-blue-500 hover:bg-blue-700 text-white px-4 py-2 rounded-lg mt-4 inline-block"
